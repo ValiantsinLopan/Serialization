@@ -1,0 +1,5 @@
+D:\VALIANTSIN\TAT LAB\Serialization\Serialization\bin\Debug\Serialization.dll
+D:\VALIANTSIN\TAT LAB\Serialization\Serialization\bin\Debug\Serialization.pdb
+D:\VALIANTSIN\TAT LAB\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\VALIANTSIN\TAT LAB\Serialization\Serialization\obj\Debug\Serialization.dll
+D:\VALIANTSIN\TAT LAB\Serialization\Serialization\obj\Debug\Serialization.pdb
