@@ -1,0 +1,9 @@
+D:\VALIANTSIN\TAT LAB\Serialization\Tests\bin\Debug\Tests.dll
+D:\VALIANTSIN\TAT LAB\Serialization\Tests\bin\Debug\Tests.pdb
+D:\VALIANTSIN\TAT LAB\Serialization\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VALIANTSIN\TAT LAB\Serialization\Tests\bin\Debug\Serialization.dll
+D:\VALIANTSIN\TAT LAB\Serialization\Tests\bin\Debug\Serialization.pdb
+D:\VALIANTSIN\TAT LAB\Serialization\Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\VALIANTSIN\TAT LAB\Serialization\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\VALIANTSIN\TAT LAB\Serialization\Tests\obj\Debug\Tests.dll
+D:\VALIANTSIN\TAT LAB\Serialization\Tests\obj\Debug\Tests.pdb

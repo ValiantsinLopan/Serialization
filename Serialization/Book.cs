@@ -15,13 +15,13 @@ namespace Serialization
 
         [XmlAttribute("id")]
         public string Id { get; set; }
-        [XmlAttribute("isbn")]
+        [XmlElement("isbn")]
         public string Isbn { get; set; }
 
-        [XmlAttribute("author")]
+        [XmlElement("author")]
         public string Author { get; set; }
 
-        [XmlAttribute("title")]
+        [XmlElement("title")]
         public string Title { get; set; }
         [XmlElement("genre")]
         public Genre Genre { get; set; }
